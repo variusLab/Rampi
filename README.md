@@ -1,6 +1,4 @@
 # Rampi
-Angle converter and trigonometric calculator for architects (user interface in French).
+Angle converter and trigonometric calculator for architects.
 
 <img src = "screenshot/rampiWindow.PNG" width = 400>
-
-Release date: 11-09-2023
